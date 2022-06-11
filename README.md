@@ -100,7 +100,7 @@ yarn start
 
     - [x] VictoryGroup, VictoryLinem, VictoryScatter를 활용한 차트 라인 추가
 
-    - [x] toLocaleString 메소드를 활용한 콤마 지정
+    - [x] 숫자 포맷을 변경하는 toLocaleString, intl, 정규식 중 가장 빠른 toLocaleString를 활용하여 숫자 포맷 변경
 
 <br>
 
